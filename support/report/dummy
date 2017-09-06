@@ -1,0 +1,16 @@
+	/*,SUM(IF(d.id_jenis='JN61201',d.jumlah,0)) AS ksatu
+				,SUM(IF(d.id_jenis='JN61202',d.jumlah,0)) AS kdua 
+				,SUM(IF(d.id_jenis='JN61203',d.jumlah,0)) AS ktiga
+				,SUM(IF(d.id_jenis='JN61204',d.jumlah,0)) AS kempat
+				,SUM(IF(d.id_jenis='JN61205',d.jumlah,0)) AS klima
+				,SUM(IF(d.id_jenis='JN61206',d.jumlah,0)) AS kenam 
+				,SUM(IF(d.id_jenis='JN61207',d.jumlah,0)) AS ktujuh 
+				,SUM(IF(d.id_jenis='JN61208',d.jumlah,0)) AS kdelapan
+				,SUM(IF(d.id_jenis='JN61209',d.jumlah,0)) AS ksembilan
+				,SUM(IF(d.id_jenis='JN61210',d.jumlah,0)) AS ksepuluh
+				,SUM(IF(d.id_jenis='JN61211',d.jumlah,0)) AS ksebelas
+				,SUM(IF(d.id_jenis='JN61212',d.jumlah,0)) AS kduabelas
+				,SUM(IF(d.id_jenis='JN61213',d.jumlah,0)) AS ktigabelas
+				,SUM(IF(d.id_jenis='JN61214',d.jumlah,0)) AS kempatbelas
+				,SUM(IF(d.id_jenis='JN61215',d.jumlah,0)) AS klimabelas
+				,SUM(IF(d.id_jenis='JN61216',d.jumlah,0)) AS kenambelas	*/
